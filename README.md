@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AsherFS
+- 👀 I’m interested in programing and computer science
+- 🌱 I’m currently learning JAVA and HTML
+- 📫 How to reach me:  ...🧐
